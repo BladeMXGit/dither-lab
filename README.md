@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blademasterlol.github.io/dither-lab/"><img alt="Open Dither Lab" src="https://img.shields.io/badge/Open-Dither_Lab-dfff45?style=for-the-badge&logo=github&logoColor=11110f" /></a>
+  <a href="https://blademxgit.github.io/dither-lab/"><img alt="Open Dither Lab" src="https://img.shields.io/badge/Open-Dither_Lab-dfff45?style=for-the-badge&logo=github&logoColor=11110f" /></a>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-f1efe7?style=for-the-badge" /></a>
 </p>
 
@@ -35,7 +35,7 @@ Dither Lab turns photos and illustrations into dithered artwork without uploadin
 
 ### Use it
 
-Open [Dither Lab on GitHub Pages](https://blademasterlol.github.io/dither-lab/), choose an image, adjust the effect, and export the result. Multiple selected images are processed as a batch.
+Open [Dither Lab on GitHub Pages](https://blademxgit.github.io/dither-lab/), choose an image, adjust the effect, and export the result. Multiple selected images are processed as a batch.
 
 ### Run locally
 
@@ -65,7 +65,7 @@ Dither Lab convierte fotos e ilustraciones en arte con dithering sin subirlas a 
 
 ### Usarla
 
-Abre [Dither Lab en GitHub Pages](https://blademasterlol.github.io/dither-lab/), elige una imagen, ajusta el efecto y exporta el resultado. Si seleccionas varias imágenes se preparan como un lote.
+Abre [Dither Lab en GitHub Pages](https://blademxgit.github.io/dither-lab/), elige una imagen, ajusta el efecto y exporta el resultado. Si seleccionas varias imágenes se preparan como un lote.
 
 ### Ejecutar localmente
 
